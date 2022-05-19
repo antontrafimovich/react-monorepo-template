@@ -1,0 +1,1 @@
+This is the react monorepo template based on npm workspaces. Has an ability to watch files with hmr during developing process.
